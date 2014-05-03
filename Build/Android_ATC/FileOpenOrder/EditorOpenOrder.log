@@ -1259,76 +1259,79 @@
 "../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Blueprints/Shape_Cube.uasset" 1259
 "../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Blueprints/TriggerBox3_Blueprint.uasset" 1260
 "../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Blueprints/TriggerBox5_Blueprint.uasset" 1261
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti.uasset" 1262
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gontiSkeleton.uasset" 1263
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti_animation.uasset" 1264
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti_animation_BP.uasset" 1265
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti_PhysicsAsset.uasset" 1266
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/HeroTPP.uasset" 1267
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/HeroTPP_AnimBlueprint.uasset" 1268
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/HeroTPP_Skeleton.uasset" 1269
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/IdleRun_TPP.uasset" 1270
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert3.uasset" 1271
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert4.uasset" 1272
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert5.uasset" 1273
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert6.uasset" 1274
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert7.uasset" 1275
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert8.uasset" 1276
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/SideJumLeft.uasset" 1277
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/Minimal_Default.umap" 1278
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/RunDemo.umap" 1279
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/RunDemo2.umap" 1280
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/StarterMap.umap" 1281
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Materials/M_Basic_Wall.uasset" 1282
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Materials/M_Ground_Grass.uasset" 1283
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Materials/Shape_Cube.uasset" 1284
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_Ground_Grass_D.uasset" 1285
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_Ground_Grass_N.uasset" 1286
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_MacroVariation.uasset" 1287
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_Perlin_Noise_M.uasset" 1288
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/4/1/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__E2AB1ADE9B5C299B956963AED9199B53D08959DD.udd" 1289
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/5/4/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__05FA6E17DCD07F55A1983A20840101F222D3D6C6.udd" 1290
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/7/6/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__D9B597ABE59A88F9BBD16FAD8ED4A8670BF773DA.udd" 1291
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/7/3/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__F4A61C70FD02B336E5699FDF120F026961839AE4.udd" 1292
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/1/7/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__588EBC87D7DF66C4EE6C4976A919861E2C50F7A7.udd" 1293
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/6/7/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__0424BA22C21CC0EC5A4D38BEF8BD95360B7E6DAB.udd" 1294
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/7/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_27AF3D154AC6A44A8EAA57A65508E53F__1_0_13073_0.udd" 1295
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/7/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_830A04DC464CEB3B264A66AA9A306284__1_0_13073_0.udd" 1296
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/3/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1ECDF03E42FE472C9FB8478C2D8C26DF__1_0_13073_0.udd" 1297
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/6/8/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_488C13DD48B05EE328239E9E76__CA82E991762E8008020DD85466CC281821948B5A.udd" 1298
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/8/7/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_D38061784A251B98479C66985D3311D__B5C6508422FDAEE9DDD090B3301810786553F139.udd" 1299
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/9/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_488C13DD48B05EE328239E9E76__857D00E049A36E7EFD82D5B27247E29D095FF46C.udd" 1300
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/0/4/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_D38061784A251B98479C66985D3311D__3547C69ECC35F302C6D70C58D4C74C94BD37AF86.udd" 1301
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/1/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_488C13DD48B05EE328239E9E76__B041B10B9DB67CB91A56EE3AB45359668224E528.udd" 1302
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/4/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_D38061784A251B98479C66985D3311D__8DDCDEDF22E84AA98A863778FE37198242281286.udd" 1303
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/9/0/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_7A3F09E44BD636074540A7BAE015702__06A58AB209F8C388F9C7F55E7279A4DAC37C56E4.udd" 1304
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/3/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_941BFE574ACD78A5F75E0487F153546F__1_0_13073_0.udd" 1305
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/1/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_7A3F09E44BD636074540A7BAE015702__68CD95DA52F32C9B848D7CBCB99453DA0A78A35F.udd" 1306
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/0/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_7A3F09E44BD636074540A7BAE015702__F60B476ECC9B2AC966A798508665D2BED9F7DB7B.udd" 1307
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/3/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D051595D477D2478E772F5AF6A242234__1_0_13073_0.udd" 1308
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/7/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2405925D4F67E5558C1DD18292F23C95__1_0_13073_0.udd" 1309
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/9/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1637DF084FE76428BEE629AE104D6621__1_0_13073_0.udd" 1310
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/8/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_0EE77618470C71CE3ECB389930F2CD89__1_0_13073_0.udd" 1311
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/9/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6068A9E84AEB021687F608AE648DB569__1_0_13073_0.udd" 1312
-"../../../../../../Users/damian/Documents/Unreal Projects/run/Saved/Autosaves/Game/Maps/UEDPCRunDemo2.umap" 1313
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/7/7/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_91FE69104F18C7858BE170AF1B__75113E2322153D9C13085036539187E411B6D362.udd" 1314
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/7/9/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_91FE69104F18C7858BE170AF1B__1C523944903175A3325B8A394D5A363239A271D7.udd" 1315
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/6/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_91FE69104F18C7858BE170AF1B__85F9D613E7B51B4791277583CA8635B4BA6F9CA4.udd" 1316
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/4/8/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_2A9429D64DA0F3C36832C88840__0984141A37305280EC1FBA9829AFD99E87D42B56.udd" 1317
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/5/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_2A9429D64DA0F3C36832C88840__B6ACC1E276AFD92E42D3C55CE96E2CF3C42E12A0.udd" 1318
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/9/9/9/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_2A9429D64DA0F3C36832C88840__6FE43E49B2011E5FA1AF7949DEBEBEFBDD0D7279.udd" 1319
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/9/2/7/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_634E234742461946E490B3B75B4E50B__EC3D0D73B507E233FD3B48FF7DE66767BEEA5BA6.udd" 1320
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/8/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_634E234742461946E490B3B75B4E50B__233F4345114531E46A7B97B6C6FB6F4B0804071C.udd" 1321
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/0/8/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_634E234742461946E490B3B75B4E50B__169C07189945E847A38D176E6D925F461D1ECF3A.udd" 1322
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/3/9/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_634E234742461946E490B3B75B4E50B__78A72583FFF037A415F94310B1F1C6B81C2CC337.udd" 1323
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/4/4/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C37FAC1B4134497C8D3BA9B32524BED__D34D43F8C339E58A6B3027F9C13DD4A2239F4827.udd" 1324
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/7/6/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C37FAC1B4134497C8D3BA9B32524BED__C9610860BBA2ADA55BB86291270AC16F1452A468.udd" 1325
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/1/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C37FAC1B4134497C8D3BA9B32524BED__D115B5B5858C679FCA30013992BC6F4A00EAC34A.udd" 1326
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/0/7/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_91FE69104F18C7858BE170AF1B__E10568AA0E45B591CC9F3EC08CCA015F482123E5.udd" 1327
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/4/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D9DB6CB943E2B36E0577D9BAB90E392C__1_0_13073_0.udd" 1328
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/0/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_4016043344EF47E49C2FE7BBDF5B4D5E__1_0_13073_0.udd" 1329
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/8/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D394D0944CAE0992894B85B54DDC6BE1__1_0_13073_0.udd" 1330
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/8/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A5E5ABC14523440E4EA6C993B83B493B__1_0_13073_0.udd" 1331
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/7/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A9F2EC5C4D763A1113816C9641764372__1_0_13073_0.udd" 1332
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/2/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2ED095E140552E507B9801B6D52E101C__1_0_13073_0.udd" 1333
-"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/9/4/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_AEA89A564AD48548D02B9E90D1EF3B5F__1_0_13073_0.udd" 1334
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Blueprints/spawns/Shape_Cube.uasset" 1262
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Blueprints/spawns/TriggerBox3_Blueprint.uasset" 1263
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Blueprints/spawns/TriggerBox5_Blueprint.uasset" 1264
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti.uasset" 1265
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gontiSkeleton.uasset" 1266
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti_animation.uasset" 1267
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti_animation_BP.uasset" 1268
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/gonti_PhysicsAsset.uasset" 1269
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/HeroTPP.uasset" 1270
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/HeroTPP_AnimBlueprint.uasset" 1271
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/HeroTPP_Skeleton.uasset" 1272
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/IdleRun_TPP.uasset" 1273
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert3.uasset" 1274
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert4.uasset" 1275
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert5.uasset" 1276
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert6.uasset" 1277
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert7.uasset" 1278
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/lambert8.uasset" 1279
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Character/SideJumLeft.uasset" 1280
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/Minimal_Default.umap" 1281
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/RunDemo.umap" 1282
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/RunDemo2.umap" 1283
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Maps/StarterMap.umap" 1284
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Materials/M_Basic_Wall.uasset" 1285
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Materials/M_Ground_Grass.uasset" 1286
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Materials/Shape_Cube.uasset" 1287
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_Ground_Grass_D.uasset" 1288
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_Ground_Grass_N.uasset" 1289
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_MacroVariation.uasset" 1290
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Content/Textures/T_Perlin_Noise_M.uasset" 1291
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/5/4/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__05FA6E17DCD07F55A1983A20840101F222D3D6C6.udd" 1292
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/4/1/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__E2AB1ADE9B5C299B956963AED9199B53D08959DD.udd" 1293
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/7/6/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__D9B597ABE59A88F9BBD16FAD8ED4A8670BF773DA.udd" 1294
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/7/3/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__F4A61C70FD02B336E5699FDF120F026961839AE4.udd" 1295
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/1/7/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__588EBC87D7DF66C4EE6C4976A919861E2C50F7A7.udd" 1296
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/6/7/MATSM_9B5EBB87518144F08D55CE1C2D2096B6_GLSL_ES2_3594__BC5N_BMSIN_DEV_SL_NODBUF__0424BA22C21CC0EC5A4D38BEF8BD95360B7E6DAB.udd" 1297
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/9/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_6068A9E84AEB021687F608AE648DB569__1_0_13073_0.udd" 1298
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/8/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_0EE77618470C71CE3ECB389930F2CD89__1_0_13073_0.udd" 1299
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/9/6/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1637DF084FE76428BEE629AE104D6621__1_0_13073_0.udd" 1300
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/7/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2405925D4F67E5558C1DD18292F23C95__1_0_13073_0.udd" 1301
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/3/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D051595D477D2478E772F5AF6A242234__1_0_13073_0.udd" 1302
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/6/8/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_488C13DD48B05EE328239E9E76__CA82E991762E8008020DD85466CC281821948B5A.udd" 1303
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/8/7/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_D38061784A251B98479C66985D3311D__B5C6508422FDAEE9DDD090B3301810786553F139.udd" 1304
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/9/0/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_7A3F09E44BD636074540A7BAE015702__06A58AB209F8C388F9C7F55E7279A4DAC37C56E4.udd" 1305
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/9/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_488C13DD48B05EE328239E9E76__857D00E049A36E7EFD82D5B27247E29D095FF46C.udd" 1306
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/0/4/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_D38061784A251B98479C66985D3311D__3547C69ECC35F302C6D70C58D4C74C94BD37AF86.udd" 1307
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/1/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_7A3F09E44BD636074540A7BAE015702__68CD95DA52F32C9B848D7CBCB99453DA0A78A35F.udd" 1308
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/1/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_488C13DD48B05EE328239E9E76__B041B10B9DB67CB91A56EE3AB45359668224E528.udd" 1309
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/0/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_7A3F09E44BD636074540A7BAE015702__F60B476ECC9B2AC966A798508665D2BED9F7DB7B.udd" 1310
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/4/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_D38061784A251B98479C66985D3311D__8DDCDEDF22E84AA98A863778FE37198242281286.udd" 1311
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/3/9/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_941BFE574ACD78A5F75E0487F153546F__1_0_13073_0.udd" 1312
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/3/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_1ECDF03E42FE472C9FB8478C2D8C26DF__1_0_13073_0.udd" 1313
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/7/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_830A04DC464CEB3B264A66AA9A306284__1_0_13073_0.udd" 1314
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/7/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_27AF3D154AC6A44A8EAA57A65508E53F__1_0_13073_0.udd" 1315
+"../../../../../../Users/damian/Documents/Unreal Projects/run/Saved/Autosaves/Game/Maps/UEDPCRunDemo2.umap" 1316
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/2/1/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_FFB5F914429898825FC6E3B672__EC55ED5080951DC81F44F01D6940B07E8401A511.udd" 1317
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/8/7/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_693FC2184002B09B48C3038345__AD652B9207900DAAE5426DAF91FCC398F3D25B13.udd" 1318
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/4/8/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_693FC2184002B09B48C3038345__B03910E28B86C752FD0302F92446513A88EB7F21.udd" 1319
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/6/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_FFB5F914429898825FC6E3B672__9D6450BF86CCDB9B0483082AE573DEA887C98828.udd" 1320
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/8/4/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_FFB5F914429898825FC6E3B672__7B4768C802C86FF6CB261DFF2F62B7AF612DD214.udd" 1321
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/7/4/3/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_693FC2184002B09B48C3038345__529C15C1722406476CECBB613D20453D868B6C99.udd" 1322
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/3/4/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_ATC_RGBA_I_693FC2184002B09B48C3038345__5A56D60182BFFC9E713A49413D70414DA5DBEEC2.udd" 1323
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/6/4/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C0865E8E4071ABD95B9E68B91FA8440__A5CBF852516A35E0ED95EACB00FC83FE3979EF0F.udd" 1324
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/4/2/6/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C0865E8E4071ABD95B9E68B91FA8440__2F335D9B0434A873DF11D206F49E1EE6CD2B03F9.udd" 1325
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/7/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C0865E8E4071ABD95B9E68B91FA8440__5CA059E400677698ACA2338E68DC000C3559F8E6.udd" 1326
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/0/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_6ADFD8464CA8729B095A3C8E4C08ECD__066431BC93C4B9612C0FCF477CD24CCA3309512C.udd" 1327
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/1/4/5/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_C0865E8E4071ABD95B9E68B91FA8440__93ADD0337754EE4C99F95787B1BC85990128EDEB.udd" 1328
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/6/9/9/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_6ADFD8464CA8729B095A3C8E4C08ECD__8C401F48D3CB8AD1116F013F3A440CA8DB2C27D7.udd" 1329
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/7/2/TEXTURE_4F83E7F4EC4E4AB788364F736C9E4311_BGRA8_6ADFD8464CA8729B095A3C8E4C08ECD__15CAC7602727C2CA61CC9AC199FFEC6A6690BB86.udd" 1330
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/4/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_080F64184AB5A4351C9B6CA516D08659__1_0_13073_0.udd" 1331
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/5/3/8/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E4BC5A1B4B1D55894831719BFC3B5156__1_0_13073_0.udd" 1332
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/0/7/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_E699851143E78BAEA43BE5A95B0B16CE__1_0_13073_0.udd" 1333
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/2/9/5/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_07DADFDA40B3545105E54F9D22912722__1_0_13073_0.udd" 1334
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/3/1/1/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_23BAF8FA42B487923EC62CA9BE918831__1_0_13073_0.udd" 1335
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/9/2/2/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_020559044EEF97A62490C88C41D33621__1_0_13073_0.udd" 1336
+"C:/Users/damian/AppData/Local/UnrealEngine/4.1/DerivedDataCache/9/8/3/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_B76AAB6D4D29DF41F3662D9FB8560FFA__1_0_13073_0.udd" 1337
